@@ -19,9 +19,9 @@ Refrences and sources utilized in making this Pygame:
 
 Start menu
 
-![](Asteroid-Dash//images/Asteroid-Dash/startscreen.gif)
+![](Asteroid-Dash//images/ToTheWormhole/startscreen.gif)
 
 
 Game play 
 
-![](Asteroid-Dash//images/Asteroid-Dash/gameScreen.gif)
+![](Asteroid-Dash//images/ToTheWormhole/gameScreen.gif)
