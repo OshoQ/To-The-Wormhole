@@ -1,4 +1,4 @@
-To The wormhole
+Asteroid Dash
 
 To run this game you must have python ver. 3.7 and pygame module installed on your computer. 
 
@@ -19,9 +19,9 @@ Refrences and sources utilized in making this Pygame:
 
 Start menu
 
-![](ToTheWormhole/images/ToTheWormhole/startscreen.gif)
+![](Asteroid-Dash//images/Asteroid-Dash/startscreen.gif)
 
 
 Game play 
 
-![](ToTheWormhole/images/ToTheWormhole/gameScreen.gif)
+![](Asteroid-Dash//images/Asteroid-Dash/gameScreen.gif)
